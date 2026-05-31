@@ -1,97 +1,85 @@
 # Rafael Moura
 
-> "Escrevo código como quem organiza sentimentos em silêncio. Entre erros e compilações, procuro sentido."
+> *"Escrevo código como quem organiza sentimentos em silêncio. Entre erros e compilações, procuro sentido."*
 
 ### 🧠 Sobre mim
 
-Sou estudante de **Ciência da Computação**, apaixonado pela interseção entre **tecnologia**, **psicologia** e **experiências digitais**.
+Sou estudante de Ciência da Computação com interesse na interseção entre tecnologia, psicologia e experiência humana.
 
-Busco criar projetos que vão além da funcionalidade, explorando narrativa, emoção, design e interação para desenvolver experiências memoráveis.
+Gosto de explorar como código, design, narrativa e interação podem ser utilizados para criar experiências digitais que vão além da funcionalidade.
 
-Atualmente estudo desenvolvimento web, sistemas, inteligência artificial e arquitetura de software, sempre buscando evoluir tanto tecnicamente quanto criativamente.
-
----
-
-### 🎯 Áreas de Interesse
-
-- 🌐 Desenvolvimento Front-end
-- ⚙️ Desenvolvimento Back-end
-- 🤖 Inteligência Artificial
-- 🧠 Psicologia e Comportamento Humano
-- 🎨 UI/UX Design
-- 🌊 Storytelling Interativo
-- 🐧 Linux e Open Source
+Minha curiosidade se estende por desenvolvimento web, inteligência artificial, comportamento humano e sistemas, sempre buscando compreender tanto as máquinas quanto as pessoas que as utilizam.
 
 ---
 
-### 🚀 Tecnologias
+## 🌊 Filosofia
+
+> A tecnologia é uma ferramenta.
+>
+> O código é uma linguagem.
+>
+> Mas as experiências mais memoráveis são aquelas que conseguem transmitir significado.
+
+---
+
+## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git,github,vscode" />
 </p>
 
 ---
 
-### 🌊 Filosofia
+## 🌊 Projeto Especial
 
-> Acredito que software não deve apenas funcionar.
->
-> Deve comunicar.
->
-> Deve conectar.
->
-> Deve ser lembrado.
+### O Oceano Entre Versões
 
----
+Uma experiência digital interativa construída a partir de narrativa, atmosfera, tipografia, música e movimento.
 
-### 📌 Projeto em Destaque
+O projeto explora temas como:
 
-#### 🌊 O Oceano Entre Versões
+- Identidade
+- Memória
+- Conexões humanas
+- Melancolia
+- Reconstrução emocional
 
-Experiência psicológica interativa desenvolvida com HTML, CSS e JavaScript.
-
-Uma jornada digital sobre identidade, memória, conexões humanas e reconstrução emocional, construída através de narrativa, animações, tipografia e trilha sonora.
+Mais do que um site, a proposta é criar uma travessia simbólica através das diferentes versões de uma pessoa.
 
 ---
 
-### 📈 Atualmente
+## 🎯 Interesses
 
-- 📚 Estudando Ciência da Computação
-- 🔨 Construindo projetos para portfólio
-- 🤖 Explorando IA como ferramenta de desenvolvimento
-- 🌱 Evoluindo em Front-end, Back-end e Arquitetura de Software
-- 🧠 Estudando comportamento humano e psicologia
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raflune&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raflune&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- Desenvolvimento Front-end
+- Desenvolvimento Back-end
+- Inteligência Artificial
+- Psicologia
+- Design de Experiência
+- Narrativas Interativas
+- Linux e Open Source
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
 <p align="left">
-  <a href="mailto:rsilvamora127@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<a href="mailto:rsilvamora127@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-  <a href="https://www.linkedin.com/in/rafael-moura-86486a3ab/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/rafael-moura-86486a3ab/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
-📧 **Email:** rsilvamora127@gmail.com
+📧 rsilvamora127@gmail.com
 
-💼 **LinkedIn:**  
-www.linkedin.com/in/rafael-moura-86486a3ab/
+💼 www.linkedin.com/in/rafael-moura-86486a3ab/
 
 ---
 
-### ⚡ Curiosidade
+## ⚡ Uma ideia que me guia
 
-Entre código, psicologia e narrativas, acredito que as melhores experiências digitais são aquelas que conseguem fazer alguém sentir algo.
+> Entre tecnologia e pessoas existe uma ponte.
+>
+> É nessa ponte que gosto de construir.
