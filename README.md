@@ -1,41 +1,97 @@
-<h2 align="left">Olá 👋! Sou Rafael Moura, estudante de TI, 18 anos — Brasil</h2>
+# Rafael Moura
+
+> "Escrevo código como quem organiza sentimentos em silêncio. Entre erros e compilações, procuro sentido."
+
+### 🧠 Sobre mim
+
+Sou estudante de **Ciência da Computação**, apaixonado pela interseção entre **tecnologia**, **psicologia** e **experiências digitais**.
+
+Busco criar projetos que vão além da funcionalidade, explorando narrativa, emoção, design e interação para desenvolver experiências memoráveis.
+
+Atualmente estudo desenvolvimento web, sistemas, inteligência artificial e arquitetura de software, sempre buscando evoluir tanto tecnicamente quanto criativamente.
 
 ---
 
-### 👨‍💻 Sobre mim
+### 🎯 Áreas de Interesse
 
-- 🎓 Estudante de **Tecnologia da Informação**
-- 🌱 Aprendendo programação, redes e sistemas
-- ⚡ Sempre em busca de novos conhecimentos
-- 📍 Brasil
-
----
-
-### 🛠️ Tecnologias
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
-</div>
+- 🌐 Desenvolvimento Front-end
+- ⚙️ Desenvolvimento Back-end
+- 🤖 Inteligência Artificial
+- 🧠 Psicologia e Comportamento Humano
+- 🎨 UI/UX Design
+- 🌊 Storytelling Interativo
+- 🐧 Linux e Open Source
 
 ---
 
-### 📬 Contato
+### 🚀 Tecnologias
 
-<div align="left">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git,github,vscode" />
+</p>
+
+---
+
+### 🌊 Filosofia
+
+> Acredito que software não deve apenas funcionar.
+>
+> Deve comunicar.
+>
+> Deve conectar.
+>
+> Deve ser lembrado.
+
+---
+
+### 📌 Projeto em Destaque
+
+#### 🌊 O Oceano Entre Versões
+
+Experiência psicológica interativa desenvolvida com HTML, CSS e JavaScript.
+
+Uma jornada digital sobre identidade, memória, conexões humanas e reconstrução emocional, construída através de narrativa, animações, tipografia e trilha sonora.
+
+---
+
+### 📈 Atualmente
+
+- 📚 Estudando Ciência da Computação
+- 🔨 Construindo projetos para portfólio
+- 🤖 Explorando IA como ferramenta de desenvolvimento
+- 🌱 Evoluindo em Front-end, Back-end e Arquitetura de Software
+- 🧠 Estudando comportamento humano e psicologia
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raflune&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raflune&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="mailto:rsilvamora127@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
   <a href="https://www.linkedin.com/in/rafael-moura-86486a3ab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:rsilvamoura127@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/raf4el.xz_/" target
+</p>
+
+📧 **Email:** rsilvamora127@gmail.com
+
+💼 **LinkedIn:**  
+www.linkedin.com/in/rafael-moura-86486a3ab/
+
+---
+
+### ⚡ Curiosidade
+
+Entre código, psicologia e narrativas, acredito que as melhores experiências digitais são aquelas que conseguem fazer alguém sentir algo.
