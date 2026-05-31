@@ -1,3 +1,7 @@
+<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/353eb578-6f1b-4380-bc95-1816ce8c3b70" />
+<p align="center">
+  <i>Technology • Psychology • Interactive Experiences</i>
+</p>
 # Rafael Moura
 
 > *"Escrevo código como quem organiza sentimentos em silêncio. Entre erros e compilações, procuro sentido."*
